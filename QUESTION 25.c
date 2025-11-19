@@ -4,7 +4,7 @@ void main()
 {
   char str1[25],str2[25];
   int i=0,j=0;
-  printf("\nEnter First String:");
+  printf("\nEnter First String:"); //Program to concatenate two strings without using strcat().
   gets(str1);
   printf("\nEnter Second String:");
   gets(str2);
